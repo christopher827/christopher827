@@ -6,7 +6,7 @@
 There's a real human behind this profile, too! In my free time you might find me playing games,Cycling around the neighbourhood, listening to music, Reading a novel.</p>
 
 ---
-### <div align="center">Languages & frameworks🧰</div>
+### <div align="center">Languages & frameworks💻 </div>
 ---
 <div align="center">
 <img  alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -25,8 +25,8 @@ There's a real human behind this profile, too! In my free time you might find me
  ## <div align="center">Find me online at these places 👇 </div>
  
   <p align="center">
-      <a target="_blank"href="https://twitter.com/iDaljeetSingh"><img src="https://img.icons8.com/fluent/50/000000/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://linkedin.com/in/Christopher Oche"><img src="https://img.icons8.com/color/50/000000/linkedin.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://medium.com/@iDaljeetSingh"><img src="https://img.icons8.com/ios-filled/50/000000/medium-new.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="https://twitter.com/chris57948648"><img src="https://img.icons8.com/fluent/50/000000/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"https://www.linkedin.com/in/christopher-oche-1b3315260/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a target="_blank"href="https://www.instagram.com/christopherossy9/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50px"/></a>
   </p>
   
