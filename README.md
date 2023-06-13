@@ -5,7 +5,7 @@
 </h1>
 
 
- ## <div align="center"> Chris's coding origin🚀 </div>
+ ## <div align="center"> Chris's coding origin 🚀 </div>
 <p>Growing up, I would annihilate every toy|game|gadgets at sight in an attempt to comprehend why and how they work the way they do and try recreating it's initial functionalities. Just like every other thing in the universe, I was victorious at some and lost others, which made my parents stop buying me toys😂. My condemned toys were'nt enough to stop me, rather I approached my next "experimentation" with lessons from the failed ones to ensure victory. I would attribute my greatest wins to God and my inquistive nature which enables me understand what exists and chances to recreate and reinvent.
 
 There's a real human behind this profile, too! In my free time you might find me playing games,Cycling around the neighbourhood, listening to music, Reading a novel.</p>
