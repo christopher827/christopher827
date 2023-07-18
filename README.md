@@ -27,7 +27,7 @@ There's a real human behind this profile, too! In my free time you might find me
 </div>
 </br>
 
- ## <div align="center">Find me online at these places  </div>
+ ## <div align="center">Find me online at these places 👇 </div>
  
   <p align="center">
       <a target="_blank"href="https://twitter.com/chris57948648"><img src="https://img.icons8.com/fluent/50/000000/twitter.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
