@@ -36,7 +36,6 @@ There's a real human behind this profile, too! In my free time you might find me
    
   </p>
 
-
 #
 <details>
   <summary><h3 align="center">Fun Fact😄</h3></summary>
