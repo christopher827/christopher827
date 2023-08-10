@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Christopher+Oche+King.;A+Software+Developer,+AI+Ethusiasist.;"></a>
 </h1>
 
-
  ## <div align="center"> Chris's coding origin 🚀 </div>
 <p>Growing up, I would annihilate every toy|game|gadgets at sight in an attempt to comprehend why and how they work the way they do and try recreating it's initial functionalities. Just like every other thing in the universe, I was victorious at some and lost others, which made my parents stop buying me toys😂. My condemned toys were'nt enough to stop me, rather I approached my next "experimentation" with lessons from the failed ones to ensure victory. I would attribute my greatest wins to God and my inquistive nature which enables me understand what exists and chances to recreate and reinvent.
 
