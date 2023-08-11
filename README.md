@@ -16,7 +16,7 @@ There's a real human behind this profile, too! In my free time you might find me
 <img  alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img  alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   <img alt="nextJS" width="50px"style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+   <img alt="nextJS" width="50px"style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdotintegral%2Fnext-js-the-future-of-react-21nb&psig=AOvVaw27QvOsZCnr5ZJaf6Y9Ygtq&ust=1691876685742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC_wfzI1YADFQAAAAAdAAAAABAK"/>
   <img  alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img  alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="TF" width="50px" style="padding-right:10px;" src="https://github.com/christopher827/christopher827/assets/104537376/753e9e24-d801-40f8-a38e-7ed2bb6d5648"/>
