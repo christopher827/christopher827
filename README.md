@@ -23,7 +23,7 @@ There's a real human behind this profile, too! In my free time you might find me
  <img alt="mongoDB" width="50px"style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"  />
  <img alt="solidity" width="50px"style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"  />
  <img alt=".NET" width="50px"style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg"  />
-![TF](https://github.com/christopher827/christopher827/assets/104537376/eaf9f329-8033-4bbd-8cad-daaf679db50c)
+<img alt=".NET" width="50px"style="padding-right:10px;" src="https://github.com/christopher827/christopher827/assets/104537376/eaf9f329-8033-4bbd-8cad-daaf679db50c"/>
 
 </div>
 </br>
