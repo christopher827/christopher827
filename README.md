@@ -1,7 +1,7 @@
 ![chris github](https://user-images.githubusercontent.com/104537376/233860529-28a0d4d2-c2eb-49b5-a08e-1641393f984f.PNG)
   
   <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Christopher+Oche+King.;A+Software+Developer,+AI+Ethusiasist.;"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Christopher+Oche+King.;A+Software+Developer,+AI+Ethusiasist.;"></a>
 </h1>
 
  ## <div align="center"> Chris's coding origin 🚀 </div>
