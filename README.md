@@ -39,6 +39,6 @@ There's a real human behind this profile, too! In my free time you might find me
 
 #
 <details>
-  <summary><h3 align="center">Fun Fact😄</h3></summary>
+<summary><h3 align="center">Fun Fact😄</h3></summary>
  While you are reading this, I am probably developing a new project or completing an old one 😛 .
   
